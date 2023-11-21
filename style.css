@@ -1,15 +1,63 @@
 body {
     background: #cccccc;
 }
-
-h1 {
-   style="text-align: center"
+#banner{
+    width: 100%;
+}
+.principal{
+    background:#cccccc;
+    padding:30px;
+}
+.titulo-principal{
+    padding-left:20px;
+}
+.titulo-centralizado {
+  color:#010706;
+  background: #e60e64;
+  text-align: center;
 }
 
 p{
     text-align: center;
+    font-size: 30px
+}
+#missao{
+    font-size: 30px;
+
 }
 
 em strong {
-    color:#FF0000;
+    color:#1b6ecc;
+}
+.itens{
+    font-size: italic;
+}
+.beneficios{
+    background:#cccccc ;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right:15%;
+}
+    .imagembeneficios{
+        width:50%;
+    }
+    <header>
+
+    <h1> class="titulo-principal">Barbearia Alura</h1>
+
+</header><
+
+<h2 class="titulo-centralizado">Sobre a Barbearia Alura</h2>
+
+<h3 class="titulo-centralizado">Benefícios</h3>
+
+.titulo-principal {
+    padding-left: 20px;
+}
+.titulo-centralizado {
+    text-align: center
 }
